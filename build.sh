@@ -1,2 +1,2 @@
-python3 src/main.py "Site_Generator"
+python3 src/main.py "/Lefty-08/Site_Generator/"
 
